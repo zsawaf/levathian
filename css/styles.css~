@@ -8234,10 +8234,23 @@ body.boxed .fredsel-side-nav-wrap .fredsel-next {
     color:#000;
 }
 
+#footerLogo{
+    color:#fff;
+    size:32px;
+}
+
 .categoryBlog{
     color:#999;
 }
 
 .categoryBlog:hover{
     color:#666;
+}
+
+.activeBlog{
+    color:red;
+}
+
+.activeBlog:hover{
+    color:red;
 }

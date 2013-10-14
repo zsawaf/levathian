@@ -8246,3 +8246,12 @@ body.boxed .fredsel-side-nav-wrap .fredsel-next {
 .categoryBlog:hover{
     color:#666;
 }
+
+.activeBlog{
+    color:black;
+    font-weight:800;
+}
+
+.activeBlog:hover{
+    color:black;
+}

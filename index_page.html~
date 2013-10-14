@@ -59,7 +59,7 @@
 						   <ul>
 							<li><a>Modeling / Dashboards</a>
 							    <ul>
-								<li><a>Design</a></li>
+								<li><a href="modeling_design.html">Design</a></li>
 								<li><a>Data</a></li>
 								<li><a>Deliver</a></li>
 								<li><a>Validate</a></li>
@@ -189,9 +189,7 @@
 
                                 </li>
                             </ul>
-			    <ul>
-				<li><a>Contact</a></li>
-			    </ul>
+			    <li><a>Contact</a></li>
                         </nav>
                     </div>
                     <div class="span2">

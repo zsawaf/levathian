@@ -64,7 +64,7 @@
 							<li><a>Modeling / Dashboards</a>
 							    <ul>
 								<li><a href="modeling_design.html">Design</a></li>
-								<li><a>Data</a></li>
+								<li><a href="modeling_data.html">Data</a></li>
 								<li><a>Deliver</a></li>
 								<li><a>Validate</a></li>
 								<li><a>Finalize</a></li>
